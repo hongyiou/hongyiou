@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hongyiou
-- 👀 I’m interested in Maths and Phhysics. Prime number and dark matter especially.
+- 👀 I’m interested in Maths and Physics. Prime number and dark matter especially.
 - 🌱 I’m currently learning Calculus B, Differential Equations.
 - 💞️ I’m looking to collaborate on The data science club project.
 - 📫 How to reach me email me: 
